@@ -32,7 +32,6 @@ This is an interactive and professional portfolio website showcasing Amit Chaudh
 For any queries, feel free to reach out via:
 - [GitHub](https://github.com/ARC8286)
 - [LinkedIn](https://www.linkedin.com/in/amit-webdev/)
-- <!DOCTYPE html>
 
     <section id="readme">
         <h1>Amit Chaudhary - Portfolio Website</h1>
